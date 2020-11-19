@@ -4,9 +4,15 @@ This is a for "fun" project which I worked on back in 2017 to familiarize myself
 # Bill of Materials:
 
 1x Cheap Chinese Arduino Pro Mini (Running a XXXX microcontroller) - $2.20.
+
 1x Cheapest 4-bit DIP switches you can ever find - $0.10.
+
 4x 1k+ resistors to act as pull down resistor - literally worhtless. 
+
 1x MicrorSD card reader module running on SPI - 0.40.
+
 1x Micro USB OTG (Male to Male) - 0.10.
+
+
 
 
