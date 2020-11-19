@@ -13,6 +13,5 @@ This is a for "fun" project which I worked on back in 2017 to familiarize myself
 
 1x Micro USB OTG (Male to Male) - 0.10.
 
-
-
-
+# Scehamtics 
+![Scehmatics](MaliciousDucky.png)
