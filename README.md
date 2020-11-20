@@ -9,7 +9,7 @@ This is a for "fun" project which I worked on back in 2017 to familiarize myself
 
 1x Cheapest 4-bit DIP switches you can ever find - $0.10.
 
-4x 1k+ resistors to act as pull down resistor - literally worhtless. 
+4x 1k+ resistors to act as pull down resistor - literally worhtless (probably pennies). 
 
 1x MicrorSD card reader module running on SPI - $0.40.
 
