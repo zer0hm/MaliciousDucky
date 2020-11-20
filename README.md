@@ -19,7 +19,7 @@ This is a for "fun" project which I worked on back in 2017 to familiarize myself
 ![schematics](MaliciousDucky_Final_Schematic.png)
 
 # Construction
-After soldering and desoldering this completely twice. I managed to indentify that I mixed MOSI with MISO, so don't judge my soldering skills at that point, I just wanted to be done, didn't care if it "didn't look good enough" AND NO I'M NOT GONNA CLEAN UP THAT SOLDER RESIDUE AND NO IT WONT SHORT THING OUT.
+After soldering and desoldering this completely twice. I managed to indentify that I mixed MOSI with MISO, so don't judge my soldering skills at that point, I just wanted to be done, didn't care if it "didn't look good enough" AND NO I'M NOT GONNA CLEAN UP THAT SOLDER RESIDUE AND NO IT WONT SHORT THINGS OUT.
 
 **P.S: WATCH OUT FOR MOSI AND MISO.**
 
